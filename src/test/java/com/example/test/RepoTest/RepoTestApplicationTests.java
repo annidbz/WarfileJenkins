@@ -22,6 +22,27 @@ class RepoTestApplicationTests {
 		System.out.println("Helloworldfrommaster");
 		System.out.println("Helloworldfrommfeature");
 		System.out.println("Helloworldfromfeature");
+		
+		System.out.println("This is a feature new change");
+		System.out.println("This is a feature new change 2.18pm");
+		
+		System.out.println("This is a feature new change");
+		System.out.println("This is a feature new change 2.18pm");
+		
+		System.out.println("This is a feature new change");
+		System.out.println("This is a feature new change 2.18pm");
+		
+		System.out.println("This is a feature new change");
+		System.out.println("This is a feature new change 2.18pm");
+		
+		System.out.println("This is a feature new change");
+		System.out.println("This is a feature new change 2.18pm");
+		
+		System.out.println("This is a feature new change");
+		System.out.println("This is a feature new change 2.18pm");
+		
+		System.out.println("This is a feature new change");
+		System.out.println("This is a feature new change 2.18pm");
 	}
 
 }
