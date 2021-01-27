@@ -8,6 +8,7 @@ class RepoTestApplicationTests {
 
 	@Test
 	void contextLoads() {
+<<<<<<< HEAD
 		
 		System.out.println("Helloworld");
 		System.out.println("Helloworld");
@@ -22,7 +23,7 @@ class RepoTestApplicationTests {
 		System.out.println("Helloworldfrommaster");
 		System.out.println("Helloworldfrommfeature");
 		System.out.println("Helloworldfromfeature");
-		
+				
 		System.out.println("This is a feature new change");
 		System.out.println("This is a feature new change 2.18pm");
 		
@@ -37,12 +38,8 @@ class RepoTestApplicationTests {
 		
 		System.out.println("This is a feature new change");
 		System.out.println("This is a feature new change 2.18pm");
-		
-		System.out.println("This is a feature new change");
-		System.out.println("This is a feature new change 2.18pm");
-		
-		System.out.println("This is a feature new change");
-		System.out.println("This is a feature new change 2.18pm");
+		System.out.println("Helloworldfrommasterremote");
+		System.out.println("Helloworldfrommasterremote");
 	}
 
 }
