@@ -43,8 +43,12 @@ class RepoTestApplicationTests {
 		System.out.println("This is a feature new change");
 		System.out.println("This is a feature new change 2.18pm");
 		System.out.println("Helloworldfrommasterremote");
+		System.out.println("Helloworldfrommasterremote 4.08pm");		
 		System.out.println("Helloworldfrommasterremote");
-		System.out.println("Merge branch 'master' into test at 3.35 pm");
+		System.out.println("Helloworldfrommasterremote 4.08pm");
+		System.out.println("Helloworldfrommasterremote");
+		System.out.println("Helloworldfrommasterremote 4.08pm");
+		System.out.println("Helloworldfrommasterremote 4.08pm");
 	}
 
 }
