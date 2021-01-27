@@ -8,7 +8,6 @@ class RepoTestApplicationTests {
 
 	@Test
 	void contextLoads() {
-<<<<<<< HEAD
 		
 		System.out.println("Helloworld");
 		System.out.println("Helloworld");
