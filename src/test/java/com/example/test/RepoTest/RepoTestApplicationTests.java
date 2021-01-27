@@ -10,6 +10,6 @@ class RepoTestApplicationTests {
 	void contextLoads() {
 		
 		System.out.println("This is test branch commit");
-	}
+		}
 
 }
