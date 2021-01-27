@@ -8,6 +8,8 @@ class RepoTestApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
+		System.out.println("This is test branch commit");
 	}
 
 }
